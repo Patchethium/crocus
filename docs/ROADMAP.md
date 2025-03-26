@@ -49,12 +49,23 @@
 ### Picture
 
 - [ ] Picture objects
+- [ ] PSD support
+  - [ ] Import
+  - [ ] Layer visibility
+  - [ ] Layer blending
+  - [ ] Scripted layer manipulation
 
 ### Text
 
 - [ ] Text objects
 - [ ] Font selection
+- [ ] Subtitle support
+  - [ ] Auto subtitle generation
 
+
+### Scripting
+
+- [ ] Lua or Rhai?
 
 ## Known Issues
 
