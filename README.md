@@ -2,7 +2,7 @@
 
 Crocus is a simple, lightweight non-linear video editor. It is written in Rust and ffmpeg, aiming to replace AviUtl in a modern environment.
 
-> ![WARNING]
+> [!WARNING]  
 > :construction: **WIP, DO NOT USE IN PRODUCTION** :construction:
 
 ## Roadmap
