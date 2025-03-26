@@ -2,17 +2,14 @@
 
 Crocus is a simple, lightweight non-linear video editor. It is written in Rust and ffmpeg, aiming to replace AviUtl in a modern environment.
 
-Crocus is not fast nor feature-rich yet, it's under heavy development and not recommended for production use.
+> ![WARNING]
+> :construction: **WIP, DO NOT USE IN PRODUCTION** :construction:
+
+## Roadmap
+
+Wanna check where we are? Please refer to [ROADMAP.md](docs/ROADMAP.md).
 
 ## Features
-
-Some features that Crocus shares with other video editors:
-
-- [ ] Import and export video files
-- [ ] Cut, copy, paste, delete, move, and trim clips
-- [ ] Keyframes
-- [ ] Effects(Filters/Transitions)
-- [ ] Lua scripting support
 
 Some features that AviUtl lacks and Crocus has or will have:
 
@@ -20,6 +17,7 @@ Some features that AviUtl lacks and Crocus has or will have:
 - [ ] Cross-platform (Windows, macOS, Linux)
 - [ ] I18N support
 - [ ] Rhai/JavaScript scripting support
+- [ ] Continuous support (the last update of AviUtl was in 2019, 6 years ago)
 
 ## Development
 
@@ -27,6 +25,7 @@ Some features that AviUtl lacks and Crocus has or will have:
 
 - Rust, you can install it from [rustup.rs](https://rustup.rs/)
 - ffmpeg, rust-ffmpeg needs some specific steps to build, please refer to [rust-ffmpeg's guide](https://github.com/zmwangx/rust-ffmpeg/wiki/Notes-on-building#dependencies) before building Crocus
+- mold & clang if you're using Linux
 
 ### Build
 

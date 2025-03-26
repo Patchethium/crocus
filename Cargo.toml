@@ -4,3 +4,9 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+bimap = "0.6.3"
+eframe = "0.29.1"
+env_logger = "0.11.5"
+ffmpeg-next = "7.1.0"
+lru = "0.12.4"
+rayon = "1.10.0"
