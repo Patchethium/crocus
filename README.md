@@ -41,3 +41,11 @@ cargo build --release
 ## License
 
 Crocus is licensed under GPLv2 or later, see [LICENSE](LICENSE) for details.
+
+## About the name
+
+I use flower names for my side projects.
+
+`Crocus` (/ˈkroʊkəs/) is a genus of seasonal flowering plants in the family Iridaceae (Iris family). Its another famous name is `saffron`, a spice derived from the flower's stigmas, used in many cuisines, such as risotto alla milanese. :yum:
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Crocus-sp.-4637.jpg#/media/File:Crocus-sp.-4637.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Crocus-sp.-4637.jpg" alt="3 stamens and style"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Bartiebert" class="mw-redirect" title="User:Bartiebert">Danny S.</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14576633">Link</a></p>
